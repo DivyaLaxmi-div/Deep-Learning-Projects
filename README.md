@@ -19,6 +19,12 @@ Each project has its own folder with code, datasets (if small), and instructions
 - [CIFAR Image Classification](./CIFAR-Image-Classification)  
   A CNN-based model to classify images from the CIFAR dataset (10 different classes).
 
+- [ANN Churn Prediction](./ANN-Churn-Prediction)  
+  A neural network model to predict customer churn based on customer data and behavior.
+
+- [Fake News Prediction](./Fake-News-Prediction)  
+  A deep learning model to detect fake news articles using NLP techniques and text classification.
+
 *(More projects will be added soon...)*
 
 ## 🛠️ Technologies Used
@@ -27,6 +33,7 @@ Each project has its own folder with code, datasets (if small), and instructions
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - OpenCV  
+- NLP libraries (NLTK, Scikit-learn)
 
 ## 🚀 How to Use
 1. Clone this repository:
